@@ -61,7 +61,7 @@ Clickhouse-Flatfile-Ingestion/
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/Clickhouse-Flatfile-Ingestion.git
+git clone https://github.com/fidelis-coraro/Clickhouse-Flatfile-ingestion
 cd Clickhouse-Flatfile-Ingestion
 ```
 
